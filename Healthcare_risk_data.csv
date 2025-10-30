@@ -1,3 +1,4 @@
+
 Age,Length_of_Stay,Treatment_Cost,Risk_Probability,Risk_Category,,,
 77,25,31070,90.93641537,High Risk,,,
 84,13,40470,73.82989174,High Risk,,,
@@ -99,3 +100,4 @@ Age,Length_of_Stay,Treatment_Cost,Risk_Probability,Risk_Category,,,
 61,1,93060,31.60916603,Low Risk,,,
 45,20,74210,71.93899342,High Risk,,,
 77,19,85400,92.0164437,High Risk,,,
+
