@@ -1,0 +1,15 @@
+venv/
+env/
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.csv
+*.xlsx
+*.log
+.vscode/
+.ipynb_checkpoints/
+.streamlit/
+.DS_Store
+Thumbs.db
+
