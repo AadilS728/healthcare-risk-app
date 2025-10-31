@@ -4,6 +4,7 @@ A data-driven Streamlit web application for health risk stratification, built us
 
 ⸻
 
+
 1️⃣ Features :
 
 -📊 Interactive Dashboards – Visualize treatment cost distributions, risk probabilities, and correlations.
@@ -18,7 +19,49 @@ A data-driven Streamlit web application for health risk stratification, built us
 
 ⸻
 
-2️⃣ Screenshots : 
+
+2️⃣ Getting Started :
+
+Follow these steps to set up and run the project locally 👇
+
+ 1️. Clone the Repository :
+
+    ```bash
+        git clone https://github.com/AadilS728/healthcare-risk-app.git
+        cd healthcare-risk-app
+
+ 2️. Create a Virtual Environment (Recommended) :
+
+       python -m venv venv
+
+ 3️. Activate the Virtual Environment : 
+ 
+   🪟 On Windows:
+   
+       venv\Scripts\activate
+
+   🍎 On Mac/Linux:
+   
+        source venv/bin/activate
+        
+  4️. Install Dependencies :
+  
+    pip install -r requirements.txt      
+    
+ 5️. Run the Application :
+ 
+     streamlit run Healthcare_Risk.py
+
+ After running this command, Streamlit will open your app automatically in a browser window.
+ If it doesn’t, visit:
+
+     http://localhost:8501    
+
+     
+
+⸻
+
+3️⃣ Screenshots : 
 
 1. Dashboard Overview :
  ![Analytics Dashboard Screenshot](images/Analytics_dashboard.png)
@@ -42,7 +85,7 @@ A data-driven Streamlit web application for health risk stratification, built us
 
 ⸻
 
-3️⃣ Tech Stack :
+4️⃣ Tech Stack :
 
 Category :
 
