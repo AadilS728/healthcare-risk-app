@@ -7,9 +7,13 @@ A data-driven Streamlit web application for health risk stratification, built us
 1️⃣ Features :
 
 -📊 Interactive Dashboards – Visualize treatment cost distributions, risk probabilities, and correlations.
+
 -🔍 Data Analysis – Analyze patient data for key health insights.
+
 -🧮 Risk Prediction – Classify patients into Low, Medium, or High Risk categories.
+
 -⚙️ Dynamic Filtering – Filter and explore patient information in real time.
+
 -🧠 Machine Learning Ready – Easily extend the project to include ML-based predictions.
 
 ⸻
@@ -41,6 +45,7 @@ A data-driven Streamlit web application for health risk stratification, built us
 3️⃣ Tech Stack :
 
 Category :
+
     1️. Frontend
     2. Backend / Logic
     3. Data ProcessingPandas, NumPy
@@ -48,6 +53,7 @@ Category :
     5. Development Tools VS Code, Git, GitHub
 
 Technologies : 
+
     1. Streamlit
     2. Python
     3. Plotly Express
@@ -90,16 +96,12 @@ Healthcare Risk Stratification App Project/
 ⸻
 
 📦 requirements.txt :
-
-streamlit
-
-pandas
-
-plotly
-
-numpy
-
-matplotlib
+ 
+    1. pandas
+    2. streamlit
+    3. plotly
+    4. numpy
+    5. matplotlib
 
 ⸻
 
